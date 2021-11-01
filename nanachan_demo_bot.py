@@ -109,7 +109,7 @@ def main() -> None:
 
     # Create the Updater and pass it your bot's token.
     updater = Updater("2007607069:AAHhGQ2BnIlj2Dk7a52eglskQN287ZXApAQ")
-
+#cambio
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
 
